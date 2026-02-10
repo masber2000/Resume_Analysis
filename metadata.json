@@ -1,0 +1,5 @@
+{
+  "name": "GovTech LCAT Analyst & Staffing Optimizer",
+  "description": "An AI-powered federal contracting tool for ingesting resumes, classifying Labor Categories (LCAT) based on J5 rules, and optimizing candidate staffing across multiple proposals.",
+  "requestFramePermissions": []
+}
